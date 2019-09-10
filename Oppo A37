@@ -1,0 +1,34 @@
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120e8a0a834d0dc6a2316503939edf1af936330a7766dc386170a0e79312330dd180a",
+      "host": "keybase.io",
+      "kid": "0120e8a0a834d0dc6a2316503939edf1af936330a7766dc386170a0e79312330dd180a",
+      "uid": "1c7dbad12f203fb0b34fecc375209a19",
+      "username": "johanes12"
+    },
+    "merkle_root": {
+      "ctime": 1568131950,
+      "hash": "91823c70b9fab36f296b821ad66abb629999dd20438517e73fd0913929d474f36d8b2309f45ea74f5a1c4e9ddf762b082ac7f5e1a0e84a9d7de4b9672fb51436",
+      "hash_meta": "26ac4015dfb68a4a84463d22893565ca8824ac3f9efdda4efdf8fb5600f83db0",
+      "seqno": 6455432
+    },
+    "per_user_key": {
+      "encryption_kid": "01213fa45aa3f87dce1256598c593f22db8e3ba1e35988ccc5790503d64429f5de490a",
+      "generation": 1,
+      "reverse_sig": "hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg+eLUJ2z8jM5VusuhCo0mWo2NIaf6AK1cAzB8sP73y3IKp3BheWxvYWTFA+d7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwZThhMGE4MzRkMGRjNmEyMzE2NTAzOTM5ZWRmMWFmOTM2MzMwYTc3NjZkYzM4NjE3MGEwZTc5MzEyMzMwZGQxODBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZThhMGE4MzRkMGRjNmEyMzE2NTAzOTM5ZWRmMWFmOTM2MzMwYTc3NjZkYzM4NjE3MGEwZTc5MzEyMzMwZGQxODBhIiwidWlkIjoiMWM3ZGJhZDEyZjIwM2ZiMGIzNGZlY2MzNzUyMDlhMTkiLCJ1c2VybmFtZSI6ImpvaGFuZXMxMiJ9LCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTU2ODEzMTk1MCwiaGFzaCI6IjkxODIzYzcwYjlmYWIzNmYyOTZiODIxYWQ2NmFiYjYyOTk5OWRkMjA0Mzg1MTdlNzNmZDA5MTM5MjlkNDc0ZjM2ZDhiMjMwOWY0NWVhNzRmNWExYzRlOWRkZjc2MmIwODJhYzdmNWUxYTBlODRhOWQ3ZGU0Yjk2NzJmYjUxNDM2IiwiaGFzaF9tZXRhIjoiMjZhYzQwMTVkZmI2OGE0YTg0NDYzZDIyODkzNTY1Y2E4ODI0YWMzZjllZmRkYTRlZmRmOGZiNTYwMGY4M2RiMCIsInNlcW5vIjo2NDU1NDMyfSwicGVyX3VzZXJfa2V5Ijp7ImVuY3J5cHRpb25fa2lkIjoiMDEyMTNmYTQ1YWEzZjg3ZGNlMTI1NjU5OGM1OTNmMjJkYjhlM2JhMWUzNTk4OGNjYzU3OTA1MDNkNjQ0MjlmNWRlNDkwYSIsImdlbmVyYXRpb24iOjEsInJldmVyc2Vfc2lnIjpudWxsLCJzaWduaW5nX2tpZCI6IjAxMjBmOWUyZDQyNzZjZmM4Y2NlNTViYWNiYTEwYThkMjY1YThkOGQyMWE3ZmEwMGFkNWMwMzMwN2NiMGZlZjdjYjcyMGEifSwidHlwZSI6InBlcl91c2VyX2tleSIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjQuNC4wIn0sImN0aW1lIjoxNTY4MTMyMDkxLCJleHBpcmVfaW4iOjUwNDU3NjAwMCwicHJldiI6ImY3MzNjNWQzYTc5YjJjNmFjNzU4ZDU5Yzc3OTkwMTljNDhhZDE0OWM1MWQ2NDFhNDY4ZjhhMGIzYzkyNjU1OTUiLCJzZXFubyI6MywidGFnIjoic2lnbmF0dXJlIn2jc2lnxEBIZrfaA+/0WKxF1VN/Dpc+h/VOUaFu+RZ9tkTWOJQg24b4OHG1BO7DHC/v5CBu+jOWiNdT0gk0xixWcq5eVbwDqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgICHVbGuHkZiF8BJmQ+r41ebzlAXWJdN892PkgdQ7nj2jdGFnzQICp3ZlcnNpb24B",
+      "signing_kid": "0120f9e2d4276cfc8cce55bacba10a8d265a8d8d21a7fa00ad5c03307cb0fef7cb720a"
+    },
+    "type": "per_user_key",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.0"
+  },
+  "ctime": 1568132091,
+  "expire_in": 504576000,
+  "prev": "f733c5d3a79b2c6ac758d59c7799019c48ad149c51d641a468f8a0b3c9265595",
+  "seqno": 3,
+  "tag": "signature"
+}
